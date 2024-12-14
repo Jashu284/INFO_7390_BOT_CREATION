@@ -3,7 +3,7 @@ import openai
 from pinecone import Pinecone
 
 # Initialize OpenAI API
-openai.api_key = "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"
+openai.api_key = "Your API key"
 
 # Initialize Pinecone
 api_key = "pcsk_EB1ry_N9StDcXxKY6MEaxKkBRuZzczM3pYn9MUNC15jUC4p2XALtwpo7eocAcsGYpV3c5"
